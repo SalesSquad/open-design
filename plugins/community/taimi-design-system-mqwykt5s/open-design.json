@@ -1,0 +1,22 @@
+{
+  "$schema": "https://open-design.ai/schemas/plugin.v1.json",
+  "specVersion": "1.0.0",
+  "name": "taimi-design-system-mqwykt5s",
+  "title": "Taimi Design System",
+  "version": "0.1.0",
+  "description": "> **Source:** [taimilaunch.vercel.app/fi](https://taimilaunch.vercel.app/fi) > **Category:** Brands · **Surface:** web > **Generated:** 2026-06-26 · **Status:** AI-refined from live brand extraction",
+  "od": {
+    "kind": "skill",
+    "taskKind": "new-generation",
+    "context": {
+      "skills": [
+        {
+          "path": "./SKILL.md"
+        }
+      ]
+    },
+    "capabilities": [
+      "prompt:inject"
+    ]
+  }
+}
