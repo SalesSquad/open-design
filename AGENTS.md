@@ -1,5 +1,9 @@
 # Directory guide
 
+<!-- agent-layout:entry:v1 -->
+Read the [project agent guide](docs/agent/README.md) for ownership, implementation paths, checks and research handoff.
+<!-- agent-layout:entry:end sha256=60ce9be3bafb1a943322cf7408e80073d1a46ad240d13fa86437f6a760d408c3 -->
+
 This file is the single source of truth for agents entering this repository. Read this file first; after entering `apps/`, `packages/`, `tools/`, or `e2e/`, read that layer's `AGENTS.md` for module-level details. Do not copy module details back into the root file; root stays focused on cross-repository boundaries, workflow, and commands.
 
 ## Core documentation index
